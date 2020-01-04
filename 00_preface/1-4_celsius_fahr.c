@@ -1,7 +1,7 @@
 # include <stdio.h>
 
 /**
- * Exercise 1.3 P8 1-4
+ * Exercise 1-4
  */
 int main()
 {
