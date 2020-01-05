@@ -1,5 +1,5 @@
-# include <stdio.h>
-# include <stdbool.h>
+#include <stdio.h>
+#include <stdbool.h>
 
 /**
  * Exercise 1-12 Print a word per line

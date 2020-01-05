@@ -1,4 +1,5 @@
-# include <stdio.h>
+#include <stdio.h>
+
 /**
  * Exercise 1-7 Print the value of EOF
  */

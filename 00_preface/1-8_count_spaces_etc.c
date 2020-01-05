@@ -1,4 +1,5 @@
-# include <stdio.h>
+#include <stdio.h>
+
 /**
  * Exercise 1-8 Coutn spaces, tabs and newlines
  */

@@ -5,7 +5,7 @@
  * -> generate "hello" file
  */
 
-# include <stdio.h>
+#include <stdio.h>
 
 // NOTE
 // "int" is required to specify the return type
